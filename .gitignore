@@ -1,0 +1,31 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.vvp
+*.wlf
+
+# Build directories
+build/
+sim_build/
+obj_dir/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Submission archives and metadata
+*.tar.gz
+metadata.yml

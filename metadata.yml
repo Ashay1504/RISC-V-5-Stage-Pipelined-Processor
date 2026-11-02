@@ -1,0 +1,12 @@
+---
+:id: 347907207
+:submitters:
+- :name: Ashay Kumar
+  :email: akumar933@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-09-17 00:41:13.715351000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-09-16 17:41:13.715351000 Z
+:status: processed
+:score: 85.0
